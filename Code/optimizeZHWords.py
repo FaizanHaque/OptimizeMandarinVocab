@@ -10,6 +10,9 @@ import matplotlib.pyplot as plt
 import math
 import time
 import pandas as pd
+
+
+#use https://zhtoolkit.com/apps/wordlist/create-list.cgi to get your own list of vocab
 filename = 'optimizeZHWords.xlsx';
 
     
